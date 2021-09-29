@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manthagopi
-- 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Machine learning 
+- 👋 HOLA, I’m **@Manthagopi**
+- 👀 I’m interested in **Data Science and Machine Learning**
+- 🌱 I’m currently learning  **Data Science** 
+- 💞️ I’m looking to collaborate on **Algorithms and MachineLearning Techniques**
 - 📫 How to reach me https://www.linkedin.com/in/manthagopi/
 <h1 align="center">Hi 👋, I'm Gopi</h1>
 <h3 align="center">The Goal is to turn Data into information, and information into insight</h3>
